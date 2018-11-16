@@ -8,3 +8,12 @@ C:\Users\Higles\documents\visual studio 2017\Projects\TF_Sistema_de_voos\TF_Sist
 C:\Users\Higles\documents\visual studio 2017\Projects\TF_Sistema_de_voos\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.csproj.CoreCompileInputs.cache
 C:\Users\Higles\documents\visual studio 2017\Projects\TF_Sistema_de_voos\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.exe
 C:\Users\Higles\documents\visual studio 2017\Projects\TF_Sistema_de_voos\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.pdb
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\bin\Debug\TF_Sistema_de_voos.exe.config
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\bin\Debug\TF_Sistema_de_voos.exe
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\bin\Debug\TF_Sistema_de_voos.pdb
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.csprojResolveAssemblyReference.cache
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.Menu.resources
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.Properties.Resources.resources
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.csproj.GenerateResource.Cache
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.exe
+C:\Users\Higles\Desktop\tfGrafosAeroporto\TF_Sistema_de_voos\obj\Debug\TF_Sistema_de_voos.pdb

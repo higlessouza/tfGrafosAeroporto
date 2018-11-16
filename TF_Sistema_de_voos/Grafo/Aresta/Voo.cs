@@ -17,5 +17,15 @@ namespace TF_Sistema_de_voos
             this.destino = destino;
             this.partida = partida;
         }
+
+        public override Aeroporto RetornarAeroporto1()
+        {
+            return origem;
+        }
+
+        public override Aeroporto RetornarAeroporto2()
+        {
+            return destino;
+        }
     }
 }
